@@ -11,4 +11,4 @@ This Excel-based project analyzes inventory using:
 - **ABC Classification**: Value-based categorization with color-coded formatting
 
 ## Author
-Kushagra — Production & Industrial Engineering, BIT Mesra
+Kushagra Singh— Production & Industrial Engineering, BIT Mesra
